@@ -1,0 +1,6 @@
+\contentsline {section}{\numberline {1}{Introduction}}{3}{section.1}
+\contentsline {section}{\numberline {2}{K-Means Clustering}}{4}{section.2}
+\contentsline {section}{\numberline {3}{Hierarchical Clustering with Single Linkage}}{6}{section.3}
+\contentsline {section}{\numberline {4}{Hierarchical Clustering with Average Linkage}}{8}{section.4}
+\contentsline {section}{\numberline {5}{Hierarchical Clustering with Complete Linkage}}{10}{section.5}
+\contentsline {section}{\numberline {6}{Conclusion}}{12}{section.6}
